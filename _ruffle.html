@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cool stuff</title>
+    <script src="https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle/ruffle.js"></script>
+    <style>
+      ruffle-player { height: 100dvh; width: 100%; }
+      body { margin: 0; }
+    </style>
+    <script>
+      const params = new URLSearchParams(window.location.search);
+      const ruffle = window.RufflePlayer.newest();
+      let player = ruffle.createPlayer();
+      
+      if (params.get("g")) {
+        document.body.appendChild(player);
+        player.load("https://cdn.jsdelivr.net/gh/ohio-english/swfs/" + params.get("g");
+      } else {
+        window.location.href = "/aifaminim.html";
+      }
+    </script>
+  </head>
+  <body>
+    
+  </body>
+</html>
