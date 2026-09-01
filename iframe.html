@@ -12,7 +12,7 @@
       const game = localStorage.getItem("g");
       const url = game.endsWith(".html") ? game : `ruffle.html?g=${game}`;
 
-      frame.url = url;
+      frame.src = url;
     </script>
   </body>
 </html>
