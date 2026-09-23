@@ -1,0 +1,223 @@
+[
+  {
+    "name": "1v1.LOL",
+    "path": "/assets/1v1-lol.html"
+  },
+  {
+    "name": "2048",
+    "path": "/assets/2048.html"
+  },
+  {
+    "name": "A Dance of Fire and Ice",
+    "path": "/assets/adofai.html"
+  },
+  {
+    "name": "Agar.io Lite",
+    "path": "/assets/agario.html"
+  },
+  {
+    "name": "Airmash",
+    "path": "/assets/airmash.html"
+  },
+  {
+    "name": "Among Us",
+    "path": "/assets/amogus.html"
+  },
+  {
+    "name": "A Small World Cup",
+    "path": "/assets/asmallworldcup.html"
+  },
+  {
+    "name": "Baldi's Basics",
+    "path": "/assets/baldisbasics.html"
+  },
+  {
+    "name": "Basket Random",
+    "path": "/assets/basket-random.html"
+  },
+  {
+    "name": "BitLife",
+    "path": "/assets/bitlife.html"
+  },
+  {
+    "name": "Clash of Vikings",
+    "path": "/assets/clashofvikings.html"
+  },
+  {
+    "name": "Cookie Clicker",
+    "path": "/assets/cookie-clicker.html"
+  },
+  {
+    "name": "Crazy Chicken 3D",
+    "path": "/assets/crazy-chicken-3d.html"
+  },
+  {
+    "name": "Crossy Road",
+    "path": "/assets/crossyroad.html"
+  },
+  {
+    "name": "Dadish",
+    "path": "/assets/dadish.html"
+  },
+  {
+    "name": "Dan the Man",
+    "path": "/assets/dan-the-man.html"
+  },
+  {
+    "name": "Doodle Jump",
+    "path": "/assets/doodle-jump.html"
+  },
+  {
+    "name": "Drift Boss",
+    "path": "/assets/drift-boss.html"
+  },
+  {
+    "name": "Drive Mad",
+    "path": "/assets/drivemad.html"
+  },
+  {
+    "name": "Drive Mad Poki",
+    "path": "/assets/drivemadpoki.html"
+  },
+  {
+    "name": "Eaglercraft",
+    "path": "/assets/eaglercraft.html"
+  },
+  {
+    "name": "Escape Road",
+    "path": "/assets/escaperoad.html"
+  },
+  {
+    "name": "Escape Road 2",
+    "path": "/assets/escaperoad2.html"
+  },
+  {
+    "name": "Escape Road 3",
+    "path": "/assets/escaperoad3.html"
+  },
+  {
+    "name": "FNAF",
+    "path": "/assets/fnaf.html"
+  },
+  {
+    "name": "Football Bros"
+    "path": "/assets/football-bros.html"
+  },
+  {
+    "name": "Fruit Ninja",
+    "path": "/assets/fruit-ninja.html"
+  },
+  {
+    "name": "Geometry Dash Lite",
+    "path": "/assets/gd-lite-weird.html"
+  },
+  {
+    "name": "Hide and Smash",
+    "path": "/assets/hideandsmash.html"
+  },
+  {
+    "name": "Icy Purple Head 3",
+    "path": "/assets/icy-purple-head-3.html"
+  },
+  {
+    "name": "Idle Bee Factory",
+    "path": "/assets/idle-bee-factory.html",
+  },
+  {
+    "name": "Idle Breakout",
+    "path": "/assets/idlebreakout.html"
+  },
+  {
+    "name": "Idle Mining Empire",
+    "path": "/assets/idle-mining-empire.html"
+  },
+  {
+    "name": "Idle Startup Tycoon",
+    "path": "/assets/idle-startup-tycoon.html"
+  },
+  {
+    "name": "Learn to Fly",
+    "path": "/assets/learntofly.html"
+  },
+  {
+    "name": "No Internet Dino",
+    "path": "/assets/nointernetdino.html"
+  },
+  {
+    "name": "OG Sonic.EXE",
+    "path": "/assets/ogsonicexe.html"
+  },
+  {
+    "name": "OvO",
+    "path": "/assets/ovo.html"
+  },
+  {
+    "name": "OvO Dimensions",
+    "path": "/assets/ovodimensions.html"
+  },
+  {
+    "name": "Paper.io",
+    "path": "/assets/paper-io.html"
+  },
+  {
+    "name": "Ragdoll Archers",
+    "path": "/assets/ragdollarchersARC.html"
+  },
+  {
+    "name": "Ragdoll Hit",
+    "path": "/assets/ragdollhit.html"
+  },
+  {
+    "name": "Retro Bowl",
+    "path": "/assets/retrobowl.html"
+  },
+  {
+    "name": "Retro Bowl College",
+    "path": "/assets/retrobowlcollege.html"
+  },
+  {
+    "name": "Rooftop Snipers",
+    "path": "/assets/rooftop-snipers.html"
+  },
+  {
+    "name": "Run 3",
+    "path": "/assets/run3.html"
+  },
+  {
+    "name": "ShootZ",
+    "path": "/assets/shootz.html"
+  },
+  {
+    "name": "Sky Race 3D",
+    "path": "/assets/skyrace-3d.html"
+  },
+  {
+    "name": "Snake",
+    "path": "/assets/snake.html"
+  },
+  {
+    "name": "Snowball.io",
+    "path": "/assets/snowbal-io.html"
+  },
+  {
+    "name": "Solar Smash",
+    "path": "/assets/solarsmash.html"
+  },
+  {
+    "name": "Space Waves",
+    "path": "/assets/spacewaves.html"
+  },
+  {
+    "name": "Stickman Duel",
+    "path": "/assets/stickman-duel.html"
+  },
+  {
+    "name": "Stickman Kingdom Clash",
+    "path": "/assets/stickmankingdomclash.html"
+  },
+  {
+    "name": "Subway Surfers Barcelona",
+    "path": "/assets/subsurf-barcelona.html"
+  }
+
+]
