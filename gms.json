@@ -218,6 +218,90 @@
   {
     "name": "Subway Surfers Barcelona",
     "path": "/assets/subsurf-barcelona.html"
+  },
+  {
+    "name": "Subway Surfers Beijing",
+    "path": "/assets/subsurf-beijing.html"
+  },
+  {
+    "name": "Subway Surfers Berlin",
+    "path": "/assets/subsurf-berlin.html"
+  },
+  {
+    "name": "Subway Surfers Buenos Aires",
+    "path": "/assets/subsurf-buenosaires.html"
+  },
+  {
+    "name": "Subway Surfers Havana",
+    "path": "/assets/subsurf-havana.html"
+  },
+  {
+    "name": "Subway Surfers Houston",
+    "path": "/assets/subsurf-houston.html"
+  },
+  {
+    "name": "Subway Surfers Iceland",
+    "path": "/assets/subsurf-iceland.html"
+  },
+  {
+    "name": "Subway Surfers London",
+    "path": "/assets/subsurf-london.html"
+  },
+  {
+    "name": "Subway Surfers Mexico"
+    "path": "/assets/subsurf-mexico.html"
+  },
+  {
+    "name": "Subway Surfers Miami",
+    "path": "/assets/subsurf-miami.html"
+  },
+  {
+    "name": "Subway Surfers Monaco",
+    "path": "/assets/subsurf-monaco.html"
+  },
+  {
+    "name": "Subway Surfers New Orleans",
+    "path": "/assets/subsurf-neworleans.html"
+  },
+  {
+    "name": "Subway Surfers San Francisco",
+    "path": "/assets/subsurf-sanfrancisco.html"
+  },
+  {
+    "name": "Subway Surfers St Petersburg",
+    "path": "/assets/subsurf-stpetersburg.html"
+  },
+  {
+    "name": "Subway Surfers Winter Holiday",
+    "path": "/assets/subsurf-winterholiday.html"
+  },
+  {
+    "name": "Subway Surfers Zurich",
+    "path": "/assets/subsurf-zurich.html"
+  },
+  {
+    "name": "Tanuki Sunset",
+    "path": "/assets/tanukisunset.html"
+  },
+  {
+    "name": "Temple Run 2",
+    "path": "/assets/templerun2.html"
+  },
+  {
+    "name": "Territorial.io",
+    "path": "/assets/territorial-io.html"
+  },
+  {
+    "name": "They are Coming",
+    "path": "/assets/they-are-coming.html"
+  },
+  {
+    "name": "Thief Puzzle",
+    "path": "/assets/thief-puzzle.html"
+  },
+  {
+    "name": "Tomb of the Mask",
+    "path": "/assets/tomb-of-the-mask.html"
   }
 
 ]
