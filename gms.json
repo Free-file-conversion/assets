@@ -302,6 +302,25 @@
   {
     "name": "Tomb of the Mask",
     "path": "/assets/tomb-of-the-mask.html"
+  },
+  {
+    "name": "Table Tennis World Tour",
+    "path": "/assets/ttworldtour.html"
+  },
+  {
+    "name": "Wordle",
+    "path": "/assets/wordle.html"
+  },
+  {
+    "name": "Wrestle Bros",
+    "path": "/assets/wrestlebros.html"
+  },
+  {
+    "name": "X-Trench Run",
+    "path": "/assets/x-trench-run.html"
+  },
+  {
+    "name": "Yohoho.io",
+    "path": "/assets/yohoho-io.html"
   }
-
 ]
