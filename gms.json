@@ -100,7 +100,7 @@
     "path": "/assets/fnaf.html"
   },
   {
-    "name": "Football Bros"
+    "name": "Football Bros",
     "path": "/assets/football-bros.html"
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "name": "Idle Bee Factory",
-    "path": "/assets/idle-bee-factory.html",
+    "path": "/assets/idle-bee-factory.html"
   },
   {
     "name": "Idle Breakout",
@@ -248,7 +248,7 @@
     "path": "/assets/subsurf-london.html"
   },
   {
-    "name": "Subway Surfers Mexico"
+    "name": "Subway Surfers Mexico",
     "path": "/assets/subsurf-mexico.html"
   },
   {
