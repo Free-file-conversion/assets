@@ -20,8 +20,17 @@
     "path": "/assets/airmash.html"
   },
   {
+    "name": "Alien Hominid",
+    "path": "/assets/alien-hominid.html"
+  },
+  {
     "name": "Among Us",
     "path": "/assets/amogus.html"
+  },
+  
+  {
+    "name": "Angry Birds",
+    "path": "/assets/angry-birds.html"
   },
   {
     "name": "A Small World Cup",
@@ -42,6 +51,54 @@
   {
     "name": "BitLife",
     "path": "/assets/bitlife.html"
+  },
+  {
+    "name": "Bloons Player Pack 1",
+    "path": "/assets/bloonspp1.html"
+  },
+  {
+    "name": "Bloons Player Pack 2",
+    "path": "/assets/bloonspp2.html"
+  },
+  {
+    "name": "Bloons Player Pack 3",
+    "path": "/assets/bloonspp3.html"
+  },
+  {
+    "name": "Bloons Player Pack 4",
+    "path": "/assets/bloonspp4.html"
+  },
+  {
+    "name": "Bloons Player Pack 5",
+    "path": "/assets/bloonspp1.html"
+  },
+  {
+    "name": "Bloons Tower Defense",
+    "path": "/assets/bloons-td-1.html"
+  },
+  {
+    "name": "Bloons Tower Defense 2",
+    "path": "/assets/bloons-td-2.html"
+  },
+  {
+    "name": "Bloons Tower Defense 3",
+    "path": "/assets/bloons-td-3.html"
+  },
+  {
+    "name": "Bloons Tower Defense 4",
+    "path": "/assets/bloons-td-4.html"
+  },
+  {
+    "name": "Bloons Tower Defense 4 Expansion",
+    "path": "/assets/bloons-td-4-expansion.html"
+  },
+  {
+    "name": "Bloons Tower Defense 5",
+    "path": "/assets/bloons-td-5.html"
+  },
+  {
+    "name": "Breaking the Bank",
+    "path": "/assets/breakingthebank.html"
   },
   {
     "name": "Clash of Vikings",
@@ -88,6 +145,26 @@
     "path": "/assets/drivemadpoki.html"
   },
   {
+    "name": "Duck Life",
+    "path": "/assets/ducklife1.html"
+  },
+  {
+    "name": "Duck Life 2",
+    "path": "/assets/ducklife2.html"
+  },
+  {
+    "name": "Duck Life 3",
+    "path": "/assets/ducklife3.html"
+  },
+  {
+    "name": "Duck Life 4",
+    "path": "/assets/ducklife4.html"
+  },
+  {
+    "name": "Duck Life 5",
+    "path": "/assets/ducklife5.html"
+  },
+  {
     "name": "Eaglercraft",
     "path": "/assets/eaglercraft.html"
   },
@@ -102,6 +179,26 @@
   {
     "name": "Escape Road 3",
     "path": "/assets/escaperoad3.html"
+  },
+  {
+    "name": "Escaping the Prison Henry Stickmin",
+    "path": "/assets/escapingtheprison.html"
+  },
+  {
+    "name": "Fireboy and Watergirl 1: Forest Temple (flash ver)",
+    "path": "/assets/fbwg1-flash.html"
+  },
+  {
+    "name": "Fireboy and Watergirl 2: Light Temple (flash ver)",
+    "path": "/assets/fbwg2-flash.html"
+  },
+  {
+    "name": "Fireboy and Watergirl 3: Ice Temple (flash ver)",
+    "path": "/assets/fbwg3-flash.html"
+  },
+  {
+    "name": "Fireboy and Watergirl 1: Crystal Temple (flash ver)",
+    "path": "/assets/fbwg4-flash.html"
   },
   {
     "name": "FNAF",
@@ -144,6 +241,14 @@
     "path": "/assets/idle-startup-tycoon.html"
   },
   {
+    "name": "Impossible Quiz",
+    "path": "/assets/impossiblequiz.html"
+  },
+  {
+    "name": "Impossible Quiz 2",
+    "path": "/assets/impossiblequiz2.html"
+  },
+  {
     "name": "Learn to Fly",
     "path": "/assets/learntofly.html"
   },
@@ -164,8 +269,32 @@
     "path": "/assets/ovodimensions.html"
   },
   {
+    "name": "Pandemic 2",
+    "path": "/assets/pandemic2.html"
+  },
+  {
     "name": "Paper.io",
     "path": "/assets/paper-io.html"
+  },
+  {
+    "name": "Papa's Burgeria",
+    "path": "/assets/papasburgeria.html"
+  },
+  {
+    "name": "Papa's Donuteria",
+    "path": "/assets/papasdonuteria.html"
+  },
+  {
+    "name": "Papa's Hot Doggeria",
+    "path": "/assets/papashotdoggeria.html"
+  },
+  {
+    "name": "Papa's Pizzeria",
+    "path": "/assets/papaspizzeria.html"
+  },
+  {
+    "name": "Papa's Sushiria",
+    "path": "/assets/papasburgeria.html"
   },
   {
     "name": "Ragdoll Archers",
@@ -214,6 +343,10 @@
   {
     "name": "Space Waves",
     "path": "/assets/spacewaves.html"
+  },
+  {
+    "name": "Stealing the Diamond",
+    "path": "/assets/stealingthediamond.html"
   },
   {
     "name": "Stickman Duel",
