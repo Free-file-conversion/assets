@@ -121,6 +121,10 @@
     "path": "/assets/cookie-clicker.html"
   },
   {
+    "name": "Coreball",
+    "path": "/assets/coreball.html"
+  },
+  {
     "name": "Crazy Chicken 3D",
     "path": "/assets/crazy-chicken-3d.html"
   },
@@ -157,6 +161,10 @@
     "path": "/assets/drivemadpoki.html"
   },
   {
+    "name": "Driven Wild",
+    "path": "/assets/drivenwild.html"
+  },
+  {
     "name": "Duck Life",
     "path": "/assets/ducklife1.html"
   },
@@ -179,6 +187,10 @@
   {
     "name": "Eaglercraft",
     "path": "/assets/eaglercraft.html"
+  },
+  {
+    "name": "Eggy Car",
+    "path": "/assets/eggycar.html"
   },
   {
     "name": "Escape Road",
@@ -209,8 +221,12 @@
     "path": "/assets/fbwg3-flash.html"
   },
   {
-    "name": "Fireboy and Watergirl 1: Crystal Temple (flash ver)",
+    "name": "Fireboy and Watergirl 4: Crystal Temple (flash ver)",
     "path": "/assets/fbwg4-flash.html"
+  },
+  {
+    "name": "FNAE",
+    "path": "/assets/fnae.html"
   },
   {
     "name": "FNAF",
@@ -227,6 +243,14 @@
   {
     "name": "Geometry Dash Lite",
     "path": "/assets/gd-lite-weird.html"
+  },
+  {
+    "name": "Get Yoked",
+    "path": "/assets/getyoked.html"
+  },
+  {
+    "name": "Granny",
+    "path": "/assets/granny.html"
   },
   {
     "name": "Hide and Smash",
