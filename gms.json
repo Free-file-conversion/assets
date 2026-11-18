@@ -49,6 +49,14 @@
     "path": "/assets/baldisbasics.html"
   },
   {
+    "name": "Baseball Bros",
+    "path": "/assets/baseballbros.html"
+  },
+  {
+    "name": "Basket Bros",
+    "path": "/assets/basketbros.html"
+  },
+  {
     "name": "Basket Random",
     "path": "/assets/basket-random.html"
   },
